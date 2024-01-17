@@ -20,7 +20,7 @@ public class BT1 {
         }else{
             x = (double) -b/a;
             System.out.println("Phuong trinh co nghiem x =  " + x );
-        } 
+ sc.close();       } 
 }
     }
 
