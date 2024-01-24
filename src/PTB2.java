@@ -3,6 +3,7 @@ public class PTB2{
     public static void main(String[] args) {
         double a,b,c,delta;
         Scanner sc = new Scanner(System.in);
+        sc.close();
         System.out.println("Nhap he so a = ");
         a = sc.nextDouble();
         System.out.println("Nhap he so b = ");
